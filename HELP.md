@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.asanta.eureka-server' is invalid and this project uses 'com.asanta.eurekaserver' instead.
+* The original package name 'com.asanta.eureka-server' is invalid and this project uses 'com.asanta.zuul' instead.
 
 # Getting Started
 
